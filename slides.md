@@ -35,11 +35,6 @@ fonts:
 ---
 layout: statement
 ---
-"Semua salah AI, AI jan***"
-
----
-layout: statement
----
 
 "What does being a web developer look like in an AI-first world?"
 
