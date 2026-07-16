@@ -163,7 +163,7 @@ layout: quote
 
 ---
 
-# Community
+# Beyond AI
 
 ---
 
