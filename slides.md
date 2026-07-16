@@ -13,10 +13,6 @@ fonts:
     sans: Geist Mono
 ---
 
-# How AI Agents Are Changing the Way We Build Website
-
----
-
 <https://edc-sby.vercel.app>
 
 ---
@@ -31,6 +27,10 @@ fonts:
 - 2026: Jobless
 
 </v-clicks>
+
+---
+
+# How AI Agents Are Changing the Way We Build Website
 
 ---
 layout: statement
