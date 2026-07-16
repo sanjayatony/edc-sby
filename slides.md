@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: nord
 title: Exabytes - Tony Sanjaya
 info:
 class: text-center
@@ -165,11 +165,11 @@ layout: quote
 
 # Beyond AI
 
+Networking
+
 ---
 
 # Closing
+AI isn't eliminating web developers. It's redefining what it means to be one
 
 ---
-layout: statement
---- 
-AI isn't eliminating web developers. It's redefining what it means to be one
